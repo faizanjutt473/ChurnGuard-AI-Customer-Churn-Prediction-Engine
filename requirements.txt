@@ -1,0 +1,9 @@
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost shap joblib
+pandas	Data load karna, cleaning, feature engineering
+numpy	Numerical operations
+matplotlib	Charts banana (confusion matrix, ROC curve)
+seaborn	Beautiful statistical plots
+scikit-learn	Train-test split, RandomizedSearchCV, evaluation metrics
+xgboost	Main ML algorithm (XGBClassifier)
+shap	Model explainability (feature impact dikhana)
+joblib	Trained model ko .pkl file me save karna
